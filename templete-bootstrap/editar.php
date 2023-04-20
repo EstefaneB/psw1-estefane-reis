@@ -17,7 +17,7 @@
     <div> <p> Sala: <br><input type="text" name="sala" value=<?php echo $_POST["sala"];?> >  </p></div>
    
     <button type="submit" class="btn">
-     <b>salva</b>
+     <b>salvar</b>
      </button>
                
     </form>
